@@ -1,0 +1,5 @@
+Car Data had multiple Data issues as per below points:-
+1. There were many NULL values present in data columns which are essential.
+2. The data types were not consistent for uniformity.
+
+All these checks should be added either in webpage or DB to check for null and list of values for various options.
